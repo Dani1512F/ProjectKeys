@@ -3,14 +3,20 @@
     {
       "url": "/",
       "name": "Home",
-      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "icon": "menu-icon tf-icons bx bx-home-circle bx-tada",
       "slug": "pages-home"
     },
     {
-      "url": "/page-2",
-      "icon": "menu-icon tf-icons bx bx-file",
-      "name": "Page 2",
-      "slug": "pages-page-2"
+      "url": "/types",
+      "name": "Llaves",
+      "icon": "menu-icon tf-icons bx bxs-key bx-tada",
+      "slug": "pages-types"
+    },
+    {
+      "url": "/Users",
+      "name": "Usuarios",
+      "icon": "menu-icon tf-icons bx bxs-user bx-tada",
+      "slug": "pages-users"
     }
   ]
 }
